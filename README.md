@@ -2,6 +2,7 @@
 Adventure text-based game created during a Scala programming course.
 
 GAME GOAL --> Find the character, Boo, and take her to the Door.
+
 This is achieved by moving around the world and figuring out its map.
 There are also additional items to be found.
 
